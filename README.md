@@ -41,15 +41,43 @@
 ---
 
 ## 🛠️ Tools & Technologies
+
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-EA3C3C?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <!-- Programming Language -->
+  <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- AI & ML -->
+  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FFA500?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+  <!-- Statistics & DSA -->
+  <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=chart&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=algorithm&logoColor=white" />
+
+  <!-- Data Analytics & Visualization -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-EA3C3C?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF5733?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B9CD3?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-FF6F61?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/StatsModels-0C3B57?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+  <!-- Database & SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <!-- Version Control & IDE -->
+  <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
