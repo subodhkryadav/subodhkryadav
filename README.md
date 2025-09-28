@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=algorithm&logoColor=white" />
 
   <!-- Data Analytics & Visualization -->
-<p align="center">
+
   <img src="https://img.shields.io/badge/Pandas-EA3C3C?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-FF5733?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/StatsModels-0C3B57?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+
 
   <!-- Database & SQL -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
