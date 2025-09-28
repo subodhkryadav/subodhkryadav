@@ -116,8 +116,12 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/subodhkryadav" alt="Subodh Kumar Yadav's GitHub chart" />
+  <a href="https://github.com/subodhkryadav">
+    <img src="https://ghchart.rshah.org/subodhkryadav" alt="Subodh Kumar Yadav's GitHub Contributions" />
+  </a>
 </p>
+
+---
 
 
 
