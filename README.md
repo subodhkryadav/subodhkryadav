@@ -74,24 +74,37 @@
 
 ## 🏅 Certifications & Learning
 
-- 📁 **Certificates Repo:** [View Here](https://github.com/subodhkryadav/certificates)  
-- 🧪 **Currently Learning:**  
-  - Model Evaluation & Optimization  
-  - Web App Security  
-  - GitHub Actions & Deployment  
-- 📚 **Recent Courses & Achievements:**  
-  - Kaggle Python, Pandas & ML Courses  
-  - Data Structures & Algorithms on LeetCode  
-  - Participated in Hackathons & ML competitions  
+### 📁 Certificates
+- [View All Certificates](https://github.com/subodhkryadav/certificates)  
+  <img src="https://img.shields.io/badge/Certificates-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+### 🧪 Currently Learning
+- Model Evaluation & Optimization <img src="https://img.shields.io/badge/Python-3673A5?style=flat-square&logo=python&logoColor=white" />
+- Web App Security <img src="https://img.shields.io/badge/Security-FF5733?style=flat-square&logo=hackthebox&logoColor=white" />
+- GitHub Actions & Deployment <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+---
+
+### 📚 Recent Courses & Achievements
+- Kaggle Python, Pandas & ML Courses <img src="https://img.shields.io/badge/Kaggle-FEDA00?style=flat-square&logo=kaggle&logoColor=white" />
+- Data Structures & Algorithms on LeetCode <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+- Participated in Hackathons & ML Competitions <img src="https://img.shields.io/badge/Hackathons-101010?style=flat-square&logo=hackthebox&logoColor=white" />
+
 
 ---
 
 ## 💬 Fun Facts & Interests
-- 🤖 AI & ML Projects lover  
-- 💡 Always exploring new technologies  
-- 🎮 Gaming in free time  
-- 🎵 Music & podcasts enthusiast  
-- 📖 Reading tech blogs & tutorials  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖+AI%20%26%20ML-100%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡+Exploring-80%25-yellow?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎮+Gaming-20%25-blue?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎵+Music-80%25-orange?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/📖+Reading-80%25-lightgrey?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
 
 ---
 
