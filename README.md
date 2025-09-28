@@ -78,6 +78,10 @@
   <!-- Version Control & IDE -->
   <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FF6600?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-4DC100?style=for-the-badge&logo=spyder&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+
 </p>
 
 ---
@@ -96,6 +100,15 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=subodhkryadav&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 GitHub Stats day wise-
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subodhkryadav&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subodhkryadav&theme=tokyonight" width="48%">
 </p>
 
 ---
