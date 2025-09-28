@@ -113,11 +113,12 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=subodhkryadav&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/subodhkryadav" alt="Subodh Kumar Yadav's GitHub chart" />
 </p>
+
 
 
 ## 🏅 Certifications & Learning
