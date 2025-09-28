@@ -31,41 +31,12 @@
 
 ## 🚀 Highlighted Projects
 
-### 🌤️ Weather Forecasting App
-- 🔗 GitHub: [Link](https://github.com/subodhkryadav/weather-forecast-flask-app)  
-- 📝 Description: Real-time & predictive weather dashboard using ML + historical data.  
-- 🎯 Features:  
-  - Predict weather using ML model  
-  - Interactive UI  
-  - API integration for real-time data  
-- 🖼️ Preview: `![Weather App Screenshot](https://via.placeholder.com/600x300.png?text=Weather+App)`  
-
-### 🍽️ Restaurant Recommender
-- 🔗 GitHub: [Link](https://github.com/subodhkryadav/bangalore-restaurant-recommender)  
-- 📝 Description: AI-based system suggesting restaurants based on user preferences.  
-- 🎯 Features:  
-  - Personalized recommendations  
-  - User input preferences  
-  - Real-time suggestions  
-- 🖼️ Preview: `![Restaurant Recommender Screenshot](https://via.placeholder.com/600x300.png?text=Restaurant+Recommender)`  
-
-### 📅 Event RSVP Manager
-- 🔗 GitHub: [Link](https://github.com/subodhkryadav/localmandir-events)  
-- 📝 Description: Event invitation system with approval workflow and language toggle.  
-- 🎯 Features:  
-  - Event approval workflow  
-  - Multi-language support  
-  - Email notifications  
-- 🖼️ Preview: `![Event RSVP Screenshot](https://via.placeholder.com/600x300.png?text=Event+RSVP+Manager)`  
-
-### 🧺 Laundry Service Manager
-- 🔗 GitHub: [Link](https://github.com/subodhkryadav/abhishek-enterprises)  
-- 📝 Description: Web tool to request, manage, and track laundry services locally.  
-- 🎯 Features:  
-  - Service request management  
-  - Real-time status updates  
-  - User-friendly interface  
-- 🖼️ Preview: `![Laundry Service Screenshot](https://via.placeholder.com/600x300.png?text=Laundry+Service+Manager)`  
+| Sl. No | Project Name               | Project Link                                                                | Used Technologies                  | Progress           |
+|--------|----------------------------|---------------------------------------------------------------------------- |------------------------------------|----------------    |
+| 1      | Weather Forecasting App    | [GitHub](https://github.com/subodhkryadav/weather-forecast-flask-app)       | Python, Flask, Pandas, NumPy       | 🟢🟢🟢🟢⚪ 80%   |
+| 2      | Restaurant Recommender     | [GitHub](https://github.com/subodhkryadav/bangalore-restaurant-recommender) | Python, ML, Pandas, HTML/CSS       | 🟢🟢🟢🟢⚪ 80%   |
+| 3      | Event RSVP Manager         | [GitHub](https://github.com/subodhkryadav/localmandir-events)               | Python, Flask, HTML/CSS, JS        | 🟢🟢🟢⚪⚪ 60%   |
+| 4      | Laundry Service Manager    | [GitHub](https://github.com/subodhkryadav/abhishek-enterprises)             | Python, Flask, HTML/CSS            | 🟢🟢🟢🟢⚪ 80%   |
 
 ---
 
