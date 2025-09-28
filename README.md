@@ -8,13 +8,13 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Computer Science Student @ Jagannath University (2023–2027)
-- 🧠 Passionate about building **real-world ML & Automation tools**
-- 🔍 Exploring: AI, APIs, Time Series Forecasting, Clean UI Development
-- 🌍 Based in **Madhubani, Bihar, India**
-- 💻 Working with: Python, Pandas, NumPy, HTML, CSS, Git, Flask
-- 💬 Ask me about ML Projects, APIs, Web Apps, Clean Architecture
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subodh-kumar-yadav-522828293/) | [Portfolio](https://subodhkryadav.github.io)
+- 🎓 Computer Science Student @ Jagannath University (2023–2027)  
+- 🧠 Passionate about building **real-world ML & Automation tools**  
+- 🔍 Exploring: AI, APIs, Time Series Forecasting, Clean UI Development  
+- 🌍 Based in **Madhubani, Bihar, India**  
+- 💻 Working with: Python, Pandas, NumPy, HTML, CSS, Git, Flask  
+- 💬 Ask me about ML Projects, APIs, Web Apps, Clean Architecture  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/subodh-kumar-yadav-522828293/) | [Portfolio](https://subodhkryadav.github.io)  
 
 ---
 
@@ -30,12 +30,42 @@
 ---
 
 ## 🚀 Highlighted Projects
-<p align="left">
-- 🌤️ **Weather Forecasting App** - Real-time & predictive weather dashboard using ML + historical data. [GitHub](https://github.com/subodhkryadav/weather-forecast-flask-app)
-- 🍽️ **Restaurant Recommender** - AI-based system suggesting restaurants based on user preferences. [GitHub](https://github.com/subodhkryadav/bangalore-restaurant-recommender)
-- 📅 **Event RSVP Manager** - Event invitation system with approval workflow and language toggle. [GitHub](https://github.com/subodhkryadav/localmandir-events)
-- 🧺 **Laundry Service Manager** - Web tool to request, manage, and track laundry services locally. [GitHub](https://github.com/subodhkryadav/abhishek-enterprises)
-</p>
+
+### 🌤️ Weather Forecasting App
+- 🔗 GitHub: [Link](https://github.com/subodhkryadav/weather-forecast-flask-app)  
+- 📝 Description: Real-time & predictive weather dashboard using ML + historical data.  
+- 🎯 Features:  
+  - Predict weather using ML model  
+  - Interactive UI  
+  - API integration for real-time data  
+- 🖼️ Preview: `![Weather App Screenshot](https://via.placeholder.com/600x300.png?text=Weather+App)`  
+
+### 🍽️ Restaurant Recommender
+- 🔗 GitHub: [Link](https://github.com/subodhkryadav/bangalore-restaurant-recommender)  
+- 📝 Description: AI-based system suggesting restaurants based on user preferences.  
+- 🎯 Features:  
+  - Personalized recommendations  
+  - User input preferences  
+  - Real-time suggestions  
+- 🖼️ Preview: `![Restaurant Recommender Screenshot](https://via.placeholder.com/600x300.png?text=Restaurant+Recommender)`  
+
+### 📅 Event RSVP Manager
+- 🔗 GitHub: [Link](https://github.com/subodhkryadav/localmandir-events)  
+- 📝 Description: Event invitation system with approval workflow and language toggle.  
+- 🎯 Features:  
+  - Event approval workflow  
+  - Multi-language support  
+  - Email notifications  
+- 🖼️ Preview: `![Event RSVP Screenshot](https://via.placeholder.com/600x300.png?text=Event+RSVP+Manager)`  
+
+### 🧺 Laundry Service Manager
+- 🔗 GitHub: [Link](https://github.com/subodhkryadav/abhishek-enterprises)  
+- 📝 Description: Web tool to request, manage, and track laundry services locally.  
+- 🎯 Features:  
+  - Service request management  
+  - Real-time status updates  
+  - User-friendly interface  
+- 🖼️ Preview: `![Laundry Service Screenshot](https://via.placeholder.com/600x300.png?text=Laundry+Service+Manager)`  
 
 ---
 
@@ -54,13 +84,15 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=subodhkryadav&show_icons=true&theme=radical" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subodhkryadav&theme=radical" width="40%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhkryadav&theme=react-dark" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkryadav&layout=compact&theme=radical" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subodhkryadav&theme=react-dark" width="50%"/>
 </p>
 
 <p align="center">
@@ -70,17 +102,35 @@
 ---
 
 ## 🏅 Certifications & Learning
-- 📁 **Certificates Repo:** [View Here](https://github.com/subodhkryadav/certificates)
-- 🧪 **Currently Learning:**
-  - Model Evaluation & Optimization
-  - Web App Security
-  - GitHub Actions & Deployment
-- 📚 **Recent Courses:**
-  - Kaggle Python, Pandas & ML Courses
-  - Data Structures & Algorithms on LeetCode
+
+- 📁 **Certificates Repo:** [View Here](https://github.com/subodhkryadav/certificates)  
+- 🧪 **Currently Learning:**  
+  - Model Evaluation & Optimization  
+  - Web App Security  
+  - GitHub Actions & Deployment  
+- 📚 **Recent Courses & Achievements:**  
+  - Kaggle Python, Pandas & ML Courses  
+  - Data Structures & Algorithms on LeetCode  
+  - Participated in Hackathons & ML competitions  
+
+---
+
+## 💬 Fun Facts & Interests
+- 🤖 AI & ML Projects lover  
+- 💡 Always exploring new technologies  
+- 🎮 Gaming in free time  
+- 🎵 Music & podcasts enthusiast  
+- 📖 Reading tech blogs & tutorials  
 
 ---
 
 ## 💡 Quote
 *"Build things that solve problems — not just problems that build things."*  
 — Subodh
+
+---
+
+## ⚡ Tips for Visitors
+- ⭐ Feel free to ⭐ any repo you find interesting  
+- 💬 Open an issue if you want to contribute  
+- 🚀 Connect with me on LinkedIn for collaborations
