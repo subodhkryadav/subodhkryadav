@@ -32,11 +32,11 @@
 ## 🚀 Highlighted Projects
 
 | Sl. No | Project Name               | Project Link                                                                | Used Technologies                  | Progress           |
-|--------|----------------------------|---------------------------------------------------------------------------- |------------------------------------|----------------    |
-| 1      | Weather Forecasting App    | [GitHub](https://github.com/subodhkryadav/weather-forecast-flask-app)       | Python, Flask, Pandas, NumPy       | 🟢🟢🟢🟢⚪ 80%   |
-| 2      | Restaurant Recommender     | [GitHub](https://github.com/subodhkryadav/bangalore-restaurant-recommender) | Python, ML, Pandas, HTML/CSS       | 🟢🟢🟢🟢⚪ 80%   |
-| 3      | Event RSVP Manager         | [GitHub](https://github.com/subodhkryadav/localmandir-events)               | Python, Flask, HTML/CSS, JS        | 🟢🟢🟢⚪⚪ 60%   |
-| 4      | Laundry Service Manager    | [GitHub](https://github.com/subodhkryadav/abhishek-enterprises)             | Python, Flask, HTML/CSS            | 🟢🟢🟢🟢⚪ 80%   |
+|--------|----------------------------------------|------------------------------------------------------------------------------|-------------------------------------|----------------    |
+| 1      | Customer-Churn-Analysis-Prediction     | [GitHub](https://github.com/subodhkryadav/Customer-Churn-Analysis-Prediction)| Python,Pandas, NumPy,matplotlib     | 🟢🟢🟢🟢⚪ 95%   |
+| 2      | student performance app                | [GitHub](https://github.com/subodhkryadav/student_performance_app)           | Python, ML, Pandas, HTML/CSS        | 🟢🟢🟢🟢⚪ 92%   |
+| 3      | Student-Placement-Prediction-App       | [GitHub](https://github.com/subodhkryadav/Student-Placement-Prediction-App)  | Python, Flask, HTML/CSS, JS         | 🟢🟢🟢⚪⚪ 93%   |
+| 4      | bangalore-restaurant-recommender       | [GitHub](https://github.com/subodhkryadav/bangalore-restaurant-recommender)  | Python, Flask, HTML/CSS             | 🟢🟢🟢🟢⚪ 90%   |
 
 ---
 
